@@ -28,7 +28,7 @@
 #
 # git clone git://github.com/seahawk1986/vdr-skin-pearhd_remix.git
 # cd vdr-skin-pearhd_remix
-# sudo cp -R pearhd_NG /var/lib/vdr/plugins/text2skin/
+# sudo cp -R pearlhd_NG /var/lib/vdr/plugins/text2skin/
 # sudo cp themes/* /var/lib/vdr/themes/
 #
 ###
